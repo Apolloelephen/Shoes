@@ -3,6 +3,7 @@ This is a Site Showing Different Types of Shoes.
 
 ## OVERVIEW
 We have Nikes And Addidas Shoes in our store
+` npm run dev`
 
 ## AUTHOR 
 Hope Philip
