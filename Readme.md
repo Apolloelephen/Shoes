@@ -11,4 +11,4 @@ Hope Philip
 Apollosphinx11@gmail.com
 
 ## LICENSE
-This code is written under the license of MIT
+This project is licensed under the MIT License - see the http://LICENSE.md file for details
